@@ -1,0 +1,15 @@
+[
+  {
+    "position": 1,
+    "id": "123",
+    "title": "aplikasi bagus",
+    "text": "aplikasi bagus banget",
+    "rating": 5,
+    "review_date": "18 September 2023",
+    "reviewed_version": "Version 1.1.1",
+    "author": {
+      "name": "Reviewer Name",
+      "author_id": "123"
+    }
+  }
+]
